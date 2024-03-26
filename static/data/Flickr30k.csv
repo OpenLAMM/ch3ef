@@ -1,0 +1,13 @@
+Model,total,Link
+LLaVA1.5,86.3,https://github.com/haotian-liu/LLaVA
+MiniGPT-4,74.1,https://github.com/Vision-CAIR/MiniGPT-4
+mPLUG-Owl,78.9,https://github.com/X-PLUG/mPLUG-Owl
+LLaMA-Adapter-v2,81.0,https://github.com/ml-lab/LLaMA-Adapter-2
+InstructBLIP,80.2,https://github.com/salesforce/LAVIS
+Otter,74.9,https://github.com/Luodian/Otter
+LAMM1.0,72.8,https://github.com/OpenLAMM/LAMM
+LAMM1.5,78.5,https://github.com/OpenLAMM/LAMM
+Kosmos-2,85.5,https://github.com/microsoft/unilm/tree/master/kosmos-2
+Shikra,84.8,https://github.com/shikras/shikra
+Qwen-VL,84.0,https://github.com/QwenLM/Qwen-VL
+InternLM-XComposer2,82.7,https://github.com/InternLM/InternLM-XComposer

@@ -1,0 +1,17 @@
+Model,total,Link
+LLaVA1.5,43.32,https://github.com/haotian-liu/LLaVA
+MiniGPT-4,45.14,https://github.com/Vision-CAIR/MiniGPT-4
+mPLUG-Owl,27.73,https://github.com/X-PLUG/mPLUG-Owl
+LLaMA-Adapter-v2,40.28,https://github.com/ml-lab/LLaMA-Adapter-2
+InstructBLIP,34.21,https://github.com/salesforce/LAVIS
+Otter,40.08,https://github.com/Luodian/Otter
+LAMM1.0,35.02,https://github.com/OpenLAMM/LAMM
+LAMM1.5,42.91,https://github.com/OpenLAMM/LAMM
+Kosmos-2,37.25,https://github.com/microsoft/unilm/tree/master/kosmos-2
+Shikra,37.65,https://github.com/shikras/shikra
+Qwen-VL,41.09,https://github.com/QwenLM/Qwen-VL
+InternLM-XComposer2,44.94,https://github.com/InternLM/InternLM-XComposer
+RLHF-V,39.27,https://github.com/RLHF-V/RLHF-V
+LLaVA-RLHF,43.93,https://github.com/llava-rlhf/LLaVA-RLHF
+GPT-4V,66.40,https://openai.com/contributions/gpt-4v
+Gemini,49.69,https://deepmind.google/technologies/gemini/#introduction
